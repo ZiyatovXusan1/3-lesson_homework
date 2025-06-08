@@ -182,7 +182,231 @@ header button {
     font-weight: 700;
 }
 .section3 {
-    background-image: url('6745cec7a62b403a4434f07deb0b6c0d1af0db9c.png');
+    background-image: url('images/6745cec7a62b403a4434f07deb0b6c0d1af0db9c.png');
     width: 100%;
-    height: 1080px;
+    height: 1040px;
+}
+.iphone {
+    padding-top: 100px;
+}
+.text {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+}
+.h1 {
+    color: #FFFFFF;
+    font-size: 64px;
+    font-weight: 400;
+    text-align: center;
+    width: 716px;
+    margin: auto;
+}
+.p_text  {
+    width: 700px;
+    margin: auto;
+    font-size: 20px;
+    color: #DFDFDFCC;
+    font-weight: 400;
+    text-align: center;
+    padding-bottom: 80px;
+}
+.sections {
+    width: 670px;
+    border-radius: 20px;
+    background-color: rgba(128, 128, 128, 0.346);
+    padding: 36px;
+    margin-bottom: 50px;
+}
+.img_h1 {
+    display: flex;
+    gap: 20px;
+}
+.img_h1 h1 {
+    
+    font-size: 32px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+.img_h1 img {
+    width: 32px;
+    height: 30px;
+}
+.sections p {
+    font-size: 18px;
+    font-weight: 400;
+    color: #DFDFDFCC;
+    padding-left: 50px;
+}
+.cont {
+    display: flex;
+    justify-content: space-between;
+}
+.section4 {
+    background-color: black;
+}
+.h1_second {
+    font-size: 64px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+.black {
+    display: flex;
+    justify-content: space-between;
+    padding: 100px 0;
+}
+.left_black {
+    width: 740px;
+}
+.images1 {
+    background-image: url('images/bac_img_1.png');
+    flex: 1;
+    height: 740px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.images2 {
+    background-image: url('images/bac_img2.png');
+    flex: 1;
+    height: 740px;
+        display: flex;
+    align-items: center;
+    justify-content: center
+}
+.images3 {
+    background-image: url('images/bac_img_3.png');
+    flex: 1;
+    height: 740px;
+    display: flex;
+    align-items: center;
+    justify-content: center
+}
+.section5 {
+    display: flex;
+}
+.inside {
+    text-align: center;
+}
+.inside img {
+    margin-bottom: 10px;
+}
+.inside h1 {
+    text-align: center;
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 50px;
+}
+.section6 {
+    background-color: black;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.img_ {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 80px;
+}
+.header h1 {
+    color: #FFFFFF;
+    font-size: 64px;
+    font-weight: 400;
+}
+.btn4 {
+    background-color: #57B8FF;
+    width: 175px;
+    height: 70px;
+    border: none;
+}
+.button {
+    display: flex;
+    align-items: end;
+    justify-content: end;
+}
+.full p {
+    color: #57B8FF;
+    font-size: 18px;
+    font-weight: 400;
+}
+.big-cont h1 {
+    color: #FFFFFF;
+    font-size: 36px;
+    font-weight: 400;
+}
+.big-cont {
+    display: flex;
+    flex-direction: column;
+    width: 650px;
+    height: 705px;
+}
+.div2{
+    display: flex;
+    gap: 30px;
+    width: 312px;
+    height: 321px;
+    flex-direction: column;
+    margin-left: 30px;
+}
+.div2 h2 {
+    color: #FFFFFF;
+    font-size: 23px;
+    font-weight: 400;
+}
+.big_container {
+    display: flex;
+    justify-content: space-between;
+}
+.column {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+footer {
+    background-image: url('images/footer.png');
+    padding: 100px 0;
+}
+.end {
+    width: 746px;
+    text-align: center;
+    margin: auto;
+    position: relative;
+}
+.end h1 {
+    font-size: 72px;
+    text-align: center;
+    font-weight: 400;
+}
+.urta2 {
+    width: 430px;
+    position: absolute;
+    left: 320px;
+}
+.end p {
+    color: #555555;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 70px 0 40px 0;
+}
+input {
+    padding: 20px 150px 20px 20px;
+    border: none;
+}
+.inp {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.inp button {
+    border: none;
+    padding: 20px 10px;
+    background-color: #57B8FF;
+    color: #FFFFFF;
 }
